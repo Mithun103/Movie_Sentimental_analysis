@@ -40,8 +40,10 @@ An end-to-end NLP pipeline that classifies movie reviews as **positive** or **ne
 
 ## 📊 Example Output Screenshots
 
-![Gradio Screenshot 1](https://github.com/user-attachments/assets/22aeb10c-930b-453b-8033-57b68fb827dc)
-![Gradio Screenshot 2](https://github.com/user-attachments/assets/436b6156-fd1a-4a74-9847-34b906f78556)
+<img width="1772" height="348" alt="image" src="https://github.com/user-attachments/assets/48877df1-d674-4a19-82d0-8838d5cd1c3c" />
+<img width="1795" height="379" alt="image" src="https://github.com/user-attachments/assets/a3313142-d672-42db-8e63-0f1abd1ae244" />
+
+
 
 ## 🌐 Live Demo
 
